@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Dey
-- 👀 I’m interested in web development , flask app ,django app, Blockchain-development.
+- 👀 I’m interested in Web Development, React Native App Development, Blockchain Development.
 - 🌱 I’m currently learning blockchain-development.
 <!--- 
 - 💞️ I’m looking to collaborate on ...
