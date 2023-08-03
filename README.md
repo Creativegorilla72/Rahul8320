@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Dey
 - 👀 I’m interested in Web Development, React Native App Development, Blockchain Development.
-- 🌱 I’m currently learning blockchain-development.
+- 🌱 I’m currently learning Android Application Development.
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
