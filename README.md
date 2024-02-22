@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Dey
-- 👀 I’m interested in Beckend Development, Web Development, Application Development, Blockchain Development.
+- 👀 I’m interested in Backend Development, Web Development, Application Development, Blockchain Development.
 - 🌱 I’m currently learning Backend Api Development.
 <!--- 
 - 💞️ I’m looking to collaborate on ...
